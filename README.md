@@ -1,16 +1,32 @@
-# dice_roller
+# Dice Roller
 
-A new Flutter project.
+## Table of Contents
 
-## Getting Started
+- [Description](#description)
+- [Features](#features)
+- [Concepts Used](#concepts-used)
+- [Tech Stack](#tech-stack)
+- [Author](#author)
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+This is a dice roller app which enables user to generate different faces of a dice one at a time randomly.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This has basically one feature, i.e. user can click the roll dice button to generate faces randomly.
+
+## Concepts Used
+
+- Stateless widgets
+- Statefull widgets
+- Creating custom widgets
+
+## Tech Stack
+
+[![Dart Badge](https://img.shields.io/badge/-Dart-61DBFB?style=for-the-badge&labelColor=black&logo=dart&logoColor=61DBFB)](https://github.com/satviksriv/news_app)
+[![Flutter Badge](https://img.shields.io/badge/-flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](https://github.com/satviksriv/news_app)
+
+## Author
+
+- [@satviksriv](https://github.com/satviksriv)
